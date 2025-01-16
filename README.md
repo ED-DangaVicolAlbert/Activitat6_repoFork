@@ -87,7 +87,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 #### AlumneFila3 PC5:
 
 
-#### AlumneFila3 PC6:
+#### AlumneFila3 PC6: Albert Danga Vicol, he modificado el metodo correspondiente añadiendo una instruccion para que muestre por pantalla mi nombre y una felicitacion del año nuevo
 
 
 
